@@ -12,6 +12,9 @@
 </p>
 
 ---
+<img width="960" height="541" alt="image" src="https://github.com/user-attachments/assets/a6ad598b-38da-4d62-8892-40dd9032506d" />
+
+---
 
 # 📌 Problem Statement
 
